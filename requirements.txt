@@ -1,0 +1,6 @@
+# The game itself only needs Ursina (it brings Panda3D with it).
+ursina==8.3.0
+# Only needed if you re-generate the textures / sounds with the scripts in tools/
+numpy
+scipy
+pillow
